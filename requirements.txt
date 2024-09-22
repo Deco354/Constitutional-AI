@@ -1,6 +1,8 @@
-transformers==4.42.3
+transformers==4.40.2
 torch
 bitsandbytes
 python-dotenv
-accelerate
+accelerate==0.25.0
 pandas
+llm-swarm==0.1.1
+huggingface_hub==0.20.3
