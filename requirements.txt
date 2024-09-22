@@ -3,3 +3,4 @@ torch
 bitsandbytes
 python-dotenv
 accelerate
+pandas
